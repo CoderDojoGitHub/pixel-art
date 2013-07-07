@@ -243,7 +243,7 @@ form {
 
 #main-content h2 {
   font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 22px;
+  font-size: 30px;
   font-weight: bold;
   margin-bottom: 8px;
   color: #474747;
@@ -252,7 +252,7 @@ form {
   content: "//";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: -1.2em;
 }
 
 #main-content h3 {
