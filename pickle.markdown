@@ -16,19 +16,19 @@ Save [helicopterman.png][Helicopter] to your computer (right click on the image 
 ###Step 1: setting up a new animation
 Open Pickle and open the image helicopterman.png from where you saved it on your computer.
 
-![](../images/pickle1.png)
+![](/images/pickle1.png)
 
 Set to: ANIMATION
 
-![](../images/pickle2.png)
+![](/images/pickle2.png)
 
 You should see this: 
 
-![](../images/pickle3.png)
+![](/images/pickle3.png)
 
 Make sure Frames are set to: ANIMATE ALL
 
-![](../images/pickle4.png)
+![](/images/pickle4.png)
 
 ###Step 2: copying and pasting
 Click COPY FRAME
