@@ -229,9 +229,8 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 2.8em;
-  letter-spacing: -1px;
   color: #474747;
 } 
 
@@ -239,7 +238,7 @@ form {
   content: "/";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -0.9em;
+  margin-left: -0.7em;
 }
 
 #main-content h2 {
