@@ -109,6 +109,7 @@ header h2 {
 
 #main-content img {
   max-width: 100%;
+  border: 2px dotted #9DDCFF;
 }
 
 aside#sidebar {

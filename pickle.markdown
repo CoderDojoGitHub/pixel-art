@@ -8,3 +8,5 @@ title:  "Pickle Tutorial"
 Download Pickle from [Pickleeditor.com][Pickle].
 
 [Pickle]: https://pickleeditor.com
+
+![](../images/pickle1.png)
