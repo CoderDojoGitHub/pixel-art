@@ -110,6 +110,7 @@ header h2 {
 #main-content img {
   max-width: 100%;
   border: 2px dotted #9DDCFF;
+  margin-bottom: 30px;
 }
 
 aside#sidebar {
@@ -229,38 +230,39 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 2.8em;
-  letter-spacing: -1px;
   color: #474747;
+  padding-top: 20px;
 } 
 
 #main-content h1:before {
   content: "/";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -0.9em;
+  margin-left: -0.7em;
 }
 
 #main-content h2 {
   font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 22px;
+  font-size: 30px;
   font-weight: bold;
   margin-bottom: 8px;
+  padding-top: 14px;
   color: #474747;
 } 
 #main-content h2:before {
   content: "//";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: -1.2em;
 }
 
 #main-content h3 {
   font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 24px;
   font-weight: bold;
-  margin-top: 24px;
+  padding-top: 24px;
   margin-bottom: 8px;
   color: #474747;
 } 
