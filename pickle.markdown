@@ -3,7 +3,7 @@ layout: tutorial
 title:  "Pickle Tutorial"
 ---
 
-#Pickel Tutorial
+#Pickle Tutorial
 This tutorial will cover the main features of Pickle, a pixel art editor for Mac and PC. We'll show you how to create a character spritesheet, and give you some tips for importing existing spritesheets used for characters and maps. 
 
 ##Setup
