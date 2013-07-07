@@ -86,11 +86,10 @@ Click EXPORT and SAVE PNG
 
 ![](../images/pickle17.png)
 
-You should have a spritesheet that looks like this:
+You should have a spritesheet that looks like the one below. Each frame is a 32 x 32 pixels.
 
 ![](../images/pickle18.png)
 
-Each frame is a 32 x 32 pixel square.
 
 ##Importing a spritesheet
 To edit an existing character spritesheet such as the one below, you need to know how big each frame is. For the character below it is 32 by 32 pixels.

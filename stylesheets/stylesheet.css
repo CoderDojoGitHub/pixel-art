@@ -110,6 +110,7 @@ header h2 {
 #main-content img {
   max-width: 100%;
   border: 2px dotted #9DDCFF;
+  margin-bottom: 30px;
 }
 
 aside#sidebar {
@@ -232,6 +233,7 @@ form {
   font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 2.8em;
   color: #474747;
+  padding-top: 20px;
 } 
 
 #main-content h1:before {
@@ -246,6 +248,7 @@ form {
   font-size: 30px;
   font-weight: bold;
   margin-bottom: 8px;
+  padding-top: 14px;
   color: #474747;
 } 
 #main-content h2:before {
@@ -259,7 +262,7 @@ form {
   font-family: 'VT323', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 24px;
   font-weight: bold;
-  margin-top: 24px;
+  padding-top: 24px;
   margin-bottom: 8px;
   color: #474747;
 } 
