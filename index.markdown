@@ -7,4 +7,4 @@ title:  "Pickle Tutorial"
 
 [Pickle Tutorial](pickle.html)
 
-[Animation Physics](splash.html) 
+[Animation Physics](physics.html) 
