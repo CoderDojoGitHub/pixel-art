@@ -41,7 +41,7 @@ With each animation you can set the Frames Per Second (FPS). This is the time it
 
 
 ###Create your own animation!
-If you want to have a go and making the animation above download the [pixelcat](http://coderdojosf.github.io/pixel-art/images/pixelcat-64.gif) and use either [Pickle](http://www.pickleeditor.com/) or [Pixen](http://pixenapp.com/) to create the animation.
+If you want to have a go and making the animation above download the [pixelcat](http://coderdojosf.github.io/pixel-art/images/pixelcat-64.png) and use either [Pickle](http://www.pickleeditor.com/) or [Pixen](http://pixenapp.com/) to create the animation.
 
 You could also try something different like making an animation of fire. Have a look at how the flames flicker in the image below and see if you can create an animation that feels realistic.
 
